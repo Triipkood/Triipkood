@@ -1,5 +1,24 @@
 {
   "dependencies": {
-    "riot": "^9.4.4"
+    "@riotjs/hot-reload": "^9.0.1",
+    "@riotjs/webpack-loader": "^9.0.1",
+    "css-loader": "^7.1.2",
+    "riot": "^9.4.4",
+    "webpack": "^5.97.1"
+  },
+  "name": "triipkood",
+  "version": "1.0.0",
+  "description": "Triipkood tools",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.6.3",
+    "mini-css-extract-plugin": "^2.9.2",
+    "webpack-cli": "^5.1.4"
   }
 }
