@@ -1,0 +1,1 @@
+{"version":3,"file":"app.css","mappings":"AAAA;EACE,aAAa;EACb,uBAAuB;EACvB,mBAAmB;EACnB,iBAAiB;AACnB","sources":["webpack://triipkood/./src/style.css"],"sourcesContent":[".container {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  min-height: 100vh;\n}\n"],"names":[],"sourceRoot":""}
